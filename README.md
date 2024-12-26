@@ -1,6 +1,6 @@
 # Flask CRUD API with MongoDB
 
-This is a simple CRUD API built with Flask and MongoDB. The API allows you to perform Create, Read, Update, and Delete operations on user data stored in a MongoDB database.
+CRUD api!!
 
 ## Requirements
 
